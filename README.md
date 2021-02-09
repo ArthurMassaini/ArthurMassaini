@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arthur Massaini de Santana</h1>
 
-<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612546098949.png"/>
 <h3 align="center">A passionate Full-Stack developer student from Brazil, delighted with the idea that my area of ​​expertise can positively transform people's lives.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArthurMassaini](https://github.com/ArthurMassaini)
@@ -18,3 +17,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmassaini&show_icons=true&locale=en&layout=compact" alt="arthurmassaini" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurmassaini&show_icons=true&locale=en" alt="arthurmassaini" /></p>
+
+<img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612546098949.png"/>
