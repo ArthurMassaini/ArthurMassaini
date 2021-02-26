@@ -20,6 +20,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurmassaini&show_icons=true&locale=en" alt="arthurmassaini" height="150px"/>
 </span>
 
-<p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612546098949.png" width="300px" heigth="150px"/></p>
+<p align="left"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612546098949.png" width="300px" heigth="150px"/></p>
 
 
