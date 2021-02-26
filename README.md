@@ -17,7 +17,7 @@
 
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmassaini&show_icons=true&locale=en&layout=compact" alt="arthurmassaini" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=arthurmassaini&show_icons=true&locale=en" alt="arthurmassaini" height="150px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthurmassaini&show_icons=true&locale=en" alt="arthurmassaini" height="150px"/>
 </span>
 
 <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612546098949.png" width="300px" heigth="150px"/></p>
