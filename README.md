@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full-Stack developer student from Brazil, delighted with the idea that my area of ​​expertise can positively transform people's lives.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArthurMassaini](https://github.com/ArthurMassaini)
-
+- 👨‍💻 Now i have a new profile bonded with the company i work: [https://github.com/ArthurMassainiMeli](https://github.com/ArthurMassainiMeli)
 - 📫 How to reach me **massaini.arthur@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
